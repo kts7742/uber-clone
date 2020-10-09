@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SAITIK</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="api_key">AIzaSyAdsGZ-GqA8Nkqh_IyMiJOcsCj3IHYthxQ</string>
+</resources>

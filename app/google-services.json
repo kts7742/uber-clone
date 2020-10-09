@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161623888071",
+    "firebase_url": "https://saitik.firebaseio.com",
+    "project_id": "saitik",
+    "storage_bucket": "saitik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161623888071:android:8a4f6c7db899149a472ee2",
+        "android_client_info": {
+          "package_name": "com.example.saitik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161623888071-capliivdjsam5b1vtdkag39sqvo26snq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saitik",
+            "certificate_hash": "15955c9922e61b53e40a0583f4c42741d4956e78"
+          }
+        },
+        {
+          "client_id": "161623888071-791dta9qv61rg36ohvp7bdlenodo2se2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZwLdctkiEMIlBRrQ_b6asim3Nz0ZK0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161623888071-791dta9qv61rg36ohvp7bdlenodo2se2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
